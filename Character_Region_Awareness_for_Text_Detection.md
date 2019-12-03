@@ -8,7 +8,7 @@ having a structural limitation to captureing all possible shapes.
   * RDSS(Rotation-Sensitive Regression Detector)
 * __Segmentation-based text detectors:__<br>
 dealing with segmentation to seek text regions at the pixel level.
-  * Multi-scal FCN
+  * Multi-scale FCN
   * Holistic-prediction
   * PixelLink
   * SSTD: regression + segmentation (using Attention mechanism)
